@@ -25,3 +25,7 @@
 .search{
     padding: 0.7rem;
 }
+input{
+    border: none;
+    width: 35rem;
+}
