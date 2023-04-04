@@ -1,0 +1,27 @@
+.inputsection{
+    padding:10rem 34rem;
+}
+.logo h1{
+    font-size: 8rem;
+    font-weight: 600;
+    color: white;
+}
+.theSearch{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    outline: 2px solid white;;
+    border-radius: 1.7rem;
+    width: 38rem;
+    height: 3rem;
+    margin: -3rem;
+    color: white;
+}
+.otherMenu{
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.7rem;
+}
+.search{
+    padding: 0.7rem;
+}

@@ -1,0 +1,29 @@
+.Body{
+    /* padding-left: 24rem; */
+    
+}
+.buttons{
+    display: flex;
+  gap: 1rem;
+  padding-left: 40rem;
+  margin-top: -5rem;
+}
+button{
+background: rgb(73, 69, 69);
+color: white;
+border: 1px lightslategray;
+border-radius: 3px;
+height: 2rem;
+cursor: pointer;
+}
+.offers{
+    padding-left: 32rem;
+    color: white;
+   
+}
+.offers a{
+    text-decoration: none;
+    gap: 3rem;
+    padding-left:0.3rem;
+    color:rgb(103, 205, 249);
+}

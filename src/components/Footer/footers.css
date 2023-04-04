@@ -1,0 +1,31 @@
+
+
+
+.leaf img{
+  width: 1.5rem;
+}
+.awarness{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+ul{
+    display: flex;
+    gap: 2rem;
+}
+ul li{
+    list-style-type: none;
+    color: whitesmoke;
+   
+}
+ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+ul img{
+    width: 2rem;
+}
+.preffix{
+    background-color: black;
+}

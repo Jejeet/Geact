@@ -1,0 +1,23 @@
+.navBody
+{
+    float: right;
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+.mailImg{
+    display: flex;
+    gap: 1rem;
+    color: white;
+}
+.moreProfile{
+    display: flex;
+    gap: 1rem;
+    color: white;
+}
+.moreProfile img{
+    width: 3rem;
+    border: 1px solid white;
+    border-radius: 3rem;
+   
+}
