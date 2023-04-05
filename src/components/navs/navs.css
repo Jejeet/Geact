@@ -1,9 +1,14 @@
+.navContainer{
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem 2rem 0 0;
+}
 .navBody
 {
-    float: right;
+  /* float: right; */
     display: flex;
     gap: 1.5rem;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
 }
 .mailImg{
     display: flex;

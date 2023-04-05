@@ -1,10 +1,14 @@
 .inputsection{
-    padding:10rem 34rem;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+
 }
 .logo h1{
     font-size: 8rem;
     font-weight: 600;
     color: white;
+    text-align: center;
 }
 .theSearch{
     display: flex;
@@ -14,7 +18,7 @@
     border-radius: 1.7rem;
     width: 38rem;
     height: 3rem;
-    margin: -3rem;
+    
     color: white;
 }
 .otherMenu{

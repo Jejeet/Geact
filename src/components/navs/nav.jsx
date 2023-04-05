@@ -3,7 +3,7 @@ import "../navs/navs.css";
 import leaf from "../../images/leaf.png"
 const nav = () => {
   return (
-    <div>
+    <div className="navContainer">
       <div className="navBody">
         <div className="mailImg">
           <div>Gmail</div>

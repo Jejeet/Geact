@@ -3,7 +3,7 @@ import React from "react";
 
 const Input = () => {
   return (
-    <div className="Body">
+    <div className="buttonSection">
       <div className="buttons">
         <button className="searching" type="submit">Google search</button>
         <button className="feelings">I'm feeling Lucky</button>
